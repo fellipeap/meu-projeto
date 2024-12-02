@@ -1,2 +1,13 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ
+c
+java:S1659" Declare "n2" on a separate line.(±Ø¸8™³ûË¸2J$20dd33b3-7c02-49c8-b55d-413f89e91068
+j
+java:S1481"'Remove this unused "n1" local variable.(±Ø¸8³ûË¸2J$bdf0c22f-6367-459c-bc89-d3aac480d024
+j
+java:S1481"'Remove this unused "n2" local variable.(±Ø¸8³ûË¸2J$7ffc7107-7840-4ffc-b003-a9a393e31c42
+m	java:S106	"+Replace this use of System.out by a logger.(¿‰š8³ûË¸2J$bf9dac01-9f39-4dec-a75b-c7f9d130e57f
+r	java:S106
+"+Replace this use of System.out by a logger.(ÀŞÄ³üÿÿÿÿ8Ÿ³ûË¸2J$b39a0534-34da-4126-a0a7-1ac5e9d995b5
+m	java:S106"+Replace this use of System.out by a logger.(Ïƒş®8Ÿ³ûË¸2J$8bd294ae-6d67-4710-87bc-e095a8f36ab3
+m	java:S106"+Replace this use of System.out by a logger.(òï‰Õ8Ÿ³ûË¸2J$0bc11910-44cc-4c24-aa73-880d93bf242f
+m	java:S106"+Replace this use of System.out by a logger.(Çî©Á8«³ûË¸2J$c291a756-e609-4f7e-bc58-95de7678575f
